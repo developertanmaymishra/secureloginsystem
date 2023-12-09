@@ -6,5 +6,4 @@ in this login  system follow  the step to  run the  code.
 3) open  localhost/phpmyadmin/
 4) import sql.sql after impoted  successful your  database been created .
 5) cut file  from  download directory  and paste in  htdocs directory to  excetue the  code  in  localhost  server.
-
-                                                          Thank You!
+                                                           Thank You!!!
